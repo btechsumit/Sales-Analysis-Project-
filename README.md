@@ -1,6 +1,4 @@
 # Sales-Analysis-Project-
-# Sales Analysis
-
 ## Project Overview
 
 This project is based on Sales Analysis using **Python and Power BI**.
@@ -13,7 +11,6 @@ This project is based on Sales Analysis using **Python and Power BI**.
 * Power BI
 
 ## Analysis
-
 * Sales Analysis
 * Profit Analysis
 * Sales vs Profit
